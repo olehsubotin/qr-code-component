@@ -2,8 +2,8 @@
 
 ### Links
 
-- [Repo](https://olehsubotin.github.io/qr-code-component/)
-- [Live](https://github.com/olehsubotin/qr-code-component)
+- [Repo](https://github.com/olehsubotin/qr-code-component)
+- [Live](https://olehsubotin.github.io/qr-code-component/)
 
 ## Built With
 
