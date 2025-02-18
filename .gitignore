@@ -1,5 +1,35 @@
-*.sketch
-*.fig
-*.xd
+# Ignore node_modules if using npm or yarn
+node_modules/
+
+# Ignore dependency lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore build and output directories
+dist/
+build/
+out/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Ignore MacOS system files
 .DS_Store
-.prettierignore
+
+# Ignore Linux and Windows system files
+*.~lock
+Thumbs.db
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore generated assets
+*.cache/
+.cache/
